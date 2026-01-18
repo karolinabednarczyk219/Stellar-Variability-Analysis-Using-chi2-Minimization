@@ -1,0 +1,1 @@
+# Stellar-Variability-Analysis-Using-chi2-Minimization
