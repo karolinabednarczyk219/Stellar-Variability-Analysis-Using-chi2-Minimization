@@ -17,9 +17,5 @@ The project focuses on:
 - Period grid search with χ² minimization
 - Basic variability selection criteria based on reduced χ² and contrast
 
-## Contents
-- `analyze_stellar_variability.py` — main analysis script
-- `Bednarczyk_Karolina_StellarVariability_Chi2.pdf` — short project report describing the method and results
-
 ## Notes
 This project was designed as a methodological exercise to understand period-search techniques and their limitations, rather than to produce a high-performance or production-ready pipeline.
